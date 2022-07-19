@@ -1,0 +1,9 @@
+server:
+  port: 80
+
+country: Japan
+
+user:
+  name: Jack
+  age: 18
+
